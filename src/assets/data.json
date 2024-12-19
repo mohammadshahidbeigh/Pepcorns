@@ -1,0 +1,111 @@
+{
+  "Andaman and Nicobar Islands": [
+    "Port Blair"
+  ],
+  "Haryana": [
+    "Faridabad",
+    "Gurgaon",
+    "Hisar",
+    "Rohtak",
+    "Panipat",
+    "Karnal",
+    "Sonipat",
+    "Yamunanagar",
+    "Panchkula",
+    "Bhiwani",
+    "Bahadurgarh",
+    "Jind",
+    "Sirsa",
+    "Thanesar",
+    "Kaithal",
+    "Palwal"
+  ],
+  "Tripura": [
+    "Agartala",
+    "Udaipur",
+    "Dharmanagar",
+    "Pratapgarh"
+  ],
+  "Chhattisgarh": [
+    "Raipur",
+    "Bhilai Nagar",
+    "Korba",
+    "Bilaspur"
+  ],
+  "Uttar Pradesh": [
+    "Lucknow",
+    "Kanpur",
+    "Firozabad",
+    "Agra",
+    "Meerut",
+    "Varanasi",
+    "Allahabad",
+    "Bareilly",
+    "Aligarh",
+    "Moradabad",
+    "Saharanpur",
+    "Gorakhpur",
+    "Noida",
+    "Jhansi",
+    "Mathura"
+  ],
+  "Himachal Pradesh": [
+    "Manali",
+    "Shimla",
+    "Dharamshala",
+    "Kullu"
+  ],
+  "Arunachal Pradesh": [
+    "Naharlagun",
+    "Itanagar",
+    "Tawang",
+    "Pasighat"
+  ],
+  "Maharashtra": [
+    "Mumbai",
+    "Pune",
+    "Nagpur",
+    "Nashik",
+    "Aurangabad",
+    "Solapur",
+    "Kolhapur",
+    "Thane",
+    "Navi Mumbai",
+    "Amravati"
+  ],
+  "Karnataka": [
+    "Bangalore",
+    "Mysore",
+    "Hubli",
+    "Mangalore",
+    "Belgaum",
+    "Gulbarga",
+    "Dharwad",
+    "Bijapur",
+    "Shimoga",
+    "Davangere"
+  ],
+  "Tamil Nadu": [
+    "Chennai",
+    "Coimbatore",
+    "Madurai",
+    "Salem",
+    "Tiruchirappalli",
+    "Tirunelveli",
+    "Tiruppur",
+    "Vellore",
+    "Erode",
+    "Thoothukkudi"
+  ],
+  "Kerala": [
+    "Thiruvananthapuram",
+    "Kochi",
+    "Kozhikode",
+    "Thrissur",
+    "Kollam",
+    "Palakkad",
+    "Alappuzha",
+    "Kannur",
+    "Kottayam"
+  ]
+}
